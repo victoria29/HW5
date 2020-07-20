@@ -1,0 +1,8 @@
+#itemsBox{
+    display: flex;
+    flex-direction: column;
+}
+
+.box{
+    margin: 10px;
+}
